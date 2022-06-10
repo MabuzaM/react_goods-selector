@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,UACE,YAAa,CACb,6BAA8B,CAC9B,kBAAmB","file":"main.419ca995.chunk.css","sourcesContent":[".ListItem {\n  display: flex;\n  justify-content: space-between;\n  margin-bottom: 10px;\n}\n"]}
